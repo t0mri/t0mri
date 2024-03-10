@@ -1,0 +1,30 @@
+= Thamarai Selvan Rajendran
+Email: datomri@proton.me | Phone: +91 994 005 6981
+
+		Summary: I enjoy dev!
+
+== Skills
+
+HTML, htmx, React, CSS, SCSS, tailwindCSS, UnoCSS, Typescript, PHP, Python,
+Dart, GraphQL, Next, Laravel, Elysia, Bun, Drizzle, Prisma, SQLite, PostgreSQL,
+MySQL, Penpot, Figma, Photoshop
+
+== Experience
+
+=== Full stack engineer | @AGKScraft software solutions
+* Architected and developed SaaS applications
+
+=== Graphic Designer | @Smart marketing system
+* Created digital content for over 20 businesses
+* Contributed to the company’s revenue, generating about 60k+ INR per month
+
+== Projects
+
+=== Pixel Rush
+* Implemented a real-time multiplayer game without an actual "server"
+* Hosted it using GitHub pages
+
+== Links
+
+* https://www.linkedin.com/in/t0mri/[LinkedIn/t0mri]
+* https://www.github.com/t0mri/[GitHub/t0mri]
